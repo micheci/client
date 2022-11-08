@@ -11,6 +11,7 @@ function App() {
       <Button onClick={() => navigate("create")}>
         NEXT
       </Button>
+  
     </div>
   );
 }
